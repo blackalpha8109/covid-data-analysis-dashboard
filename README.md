@@ -1,5 +1,5 @@
 # covid-data-analysis-dashboard
-COVID-19 data analysis and prediction using ML andStreamLit
+COVID-19 data analysis and prediction using ML and StreamLit
 
 ## How to Run
 
